@@ -1,6 +1,20 @@
 
-		F6::copyItem() ;F6 is the key I am using to start this macro, change to whatever you like
+	F6::copyItem() ;F6 is the key I am using to start this macro, change to whatever you like
 	F5::gotoHideout() ;F5 is the key I am using to quickly teleport to my hideout, change to whatever you like
+	F9:: lasty() ; f9 is the thanks comerce
+	
+
+lasty(){
+		send {ctrl down}{enter down}
+	sleep 20
+		send {enter up} {ctrl up}
+		sleep 20
+	 Send ty and gl
+	 sleep 20
+	 send {enter}
+	
+		
+		}
 
 	gotoHideout(){
 
@@ -9,7 +23,7 @@
 		Send /hideout	
 	sleep 20
 	Send {enter}
-}
+		}
 
 copyItem(){
     

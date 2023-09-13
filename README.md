@@ -43,9 +43,45 @@ d)Go to Settings -> In-Game and replace the steam overlay key to F7, this is wha
 Sorry, some images are outdated and are from an old post. 
 
 ##   3) OPEN SCRIPT WITH YOUR TEXT EDITOR AND CONFIGURE
-a) FIRST OPEN WINDOWS SPY.
+#### a) OPEN WINDOWS SPY.
 THIS COMES ALREADY INSTALLED WITH AHK (autohotkey)
-SET UP THESE 5 THINGS---
+
+#### LINE 26 OF THE PROGRAM.
+            1) Go to Path of exile in steam, and open navigator with docgoogle.
+            2)Open the spy window and position yourself in the text window.
+            3) copy only screen numbers(Remember that the text will be pasted here).
+
+![s](https://github.com/anaky22/geforceawekend/assets/144877331/3098bf81-29dd-40f6-a63b-54a0a2d7a388)
+
+
+#### b) Open preferred browser with googledocs.
+
+ #### LINE 40 AND 42 OF THE PROGRAM.
+            
+            1)Open windows spy with browser and Copy name and screen number(Remember that the text will be pasted and copy here)
+
+            
+![sdf](https://github.com/anaky22/geforceawekend/assets/144877331/28ed7a18-bc0d-490b-9be3-4bf9a8aa63ba)
+
+
+**copy everything that is in red**
+
+
+      
+#### c) Go to path of exile and press shift + space.
+
+            a)Reposition the mouse to the search and copy position.
+            b)copy the program name.
+![Captura de pantalla 2023-09-13 091144](https://github.com/anaky22/geforceawekend/assets/144877331/385fee54-f123-4a14-8bc2-919ce200f75e)
+
+
+### If you have been able to follow the steps so far, you can now use the script.
+### F5 USE /hideout.
+### F6 USE CHECK PRICE.
+### NOTED: ALWAYS HAVE THE GOOGLEDOCS WINDOW ONLY FOR IT TO WORK
+
+
+
 
 
 

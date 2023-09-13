@@ -78,6 +78,7 @@ THIS COMES ALREADY INSTALLED WITH AHK (autohotkey)
 ### If you have been able to follow the steps so far, you can now use the script.
 ### F5 USE /hideout.
 ### F6 USE CHECK PRICE.
+### F9 USE COMMERCIAL RESPONSE.
 ### SHIFT + SPACE OPEN OVERLAY
 ### NOTED: ALWAYS HAVE THE GOOGLEDOCS WINDOW ONLY FOR IT TO WORK
 

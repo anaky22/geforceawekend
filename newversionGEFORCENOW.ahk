@@ -23,7 +23,7 @@ copyItem(){
 	sleep 100
 	
 	;########################## This is used to click anywhere inside the dontpad page, CTRL+A to select all the already existing text(if there is any), then CTRL+V to paste the previously copied item data
-		Click, 491, 429
+		Click, 491, 429  ;#HERE
 		sendinput {ctrl down} {a down}
 	sleep 150
 	sendinput {a up}{ctrl up}
@@ -37,9 +37,9 @@ copyItem(){
 	sleep 2500
 	
 
-	WinActivate, 123 - Documentos de Google - Google Chrome ahk_class Chrome_WidgetWin_1
+	WinActivate, 123 - Documentos de Google - Google Chrome ahk_class Chrome_WidgetWin_1   ;#HERE
 	sleep 70
-		Click, 690, 557
+		Click, 690, 557   ;#HERE
 	sleep 70
 		sendinput {ctrl down} {a down}
 	sleep 70
@@ -52,13 +52,13 @@ copyItem(){
 		
 
           
-		WinActivate, Path of Exile en GeForce NOW ahk_class CEFCLIENT
+		WinActivate, Path of Exile en GeForce NOW ahk_class CEFCLIENT  ;#HERE
 	sleep 600
 		sendinput {space down} {shift down}
 	sleep 200
 		sendinput {space up} {shift up}
 	sleep 200
-		Click, 212, 135
+		Click, 212, 135  ;#HERE
 	sleep 100
 		SendInput, ^v
 	
